@@ -2,8 +2,9 @@ import react from "react";
 import { View, Text, FlatList, Dimensions } from "react-native";
 
 import CarItem from "../carItems";
-import styles from "../styledButton/styles";
+import styles from "./styles";
 import car from './car'
+
 
 const CarList = (props) => {
     return (
