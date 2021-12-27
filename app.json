@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "terst",
+    "githubUrl": "https://github.com/VishDroid-dev/testlaclone-reactnative.git"
   }
 }
